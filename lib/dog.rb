@@ -1,3 +1,5 @@
+#Generate the class object, then instantiate the objects.
+
 class Dog
 
 end
